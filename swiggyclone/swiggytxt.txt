@@ -1,0 +1,26 @@
+
+
+      .image3{
+        padding-left: 300px;
+        padding-top: 22px;
+        
+      }
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+
+                  

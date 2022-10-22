@@ -1,0 +1,352 @@
+.header-container{
+
+}
+.head-left{
+    width:58%;
+    height:534px;
+    float: left;
+    background-color: #fff;
+    margin: 0px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-decoration: none;
+}
+.head-right{
+    width:42%;
+    height:534px;
+    float: left;
+    background-color: rgb(41, 169, 9);
+    margin: 0px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    
+    
+}
+#firstimage{width: 670px;
+    height: 534px;
+
+}
+#logo{
+    width: 200px;
+    padding-top: 50px;
+    padding-left: 100px;
+}
+.login{
+text-align: right;
+padding-left: 340px;
+padding-top: 30px;
+margin-right: 0px;
+text-decoration: none;
+
+}
+
+#signup{
+   border-radius: 0px;
+   
+   display:inline-block;
+    padding: 10px 15px;
+    background: rgb(8, 8, 8);
+    margin-left: 15px;
+    text-decoration: none;
+    font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+    font-weight: 100;
+    color: #fff;
+    font-size: 15px;
+}
+#login{font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+    font-weight: 700;
+    color: rgb(23, 22, 22);
+    text-decoration: none;
+  font-size: 15px;
+
+}
+h1{
+     font-weight: bold;
+     padding-left: 150px;
+     font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+  font-size: 55px;
+
+}
+h2{
+    font-size: 24px;
+    font-weight:300;
+    width: 600px;
+    color: #686b78;
+    letter-spacing: -.3px;
+    line-height:  40px;
+    padding-left: 150px;
+    margin-top: -37px;
+}
+*{
+    font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+}
+
+#searchbox{
+ 
+    color: #686b78;
+    font-size: 18px;
+    font-weight:300;
+    width: 405px;
+    height: 50px;
+    margin-left: 100px;
+    border-color: rgb(255, 132, 0);
+    border-radius: 4px;
+
+}
+.searchbutton1{
+    
+        background-color: rgb(255, 132, 0);
+        border: none;
+        color: white;
+        padding: 17px 35px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        line-height: 56px;
+        width: 151px;
+        font-size: 16px;
+        font-weight: 700;
+        letter-spacing: .53px;
+        padding: 0;
+        font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+        font-size: 18px;
+        font-size: 500;
+        margin-left: -6px;
+      }
+
+
+
+      h3{
+        font-size: 15px;
+        font-weight: 100;
+        padding-left: 88px;
+        margin-top: 20px;
+        color: #a2a2a5;
+      }
+
+      .citylist{
+        text-decoration: none;
+        width: 570px;
+        list-style: none;
+        padding-left: 0px;
+        
+      }
+
+
+      .city-data{
+        padding-left: 35px;
+
+        display: inline-block;
+        
+    
+    text-decoration: none;
+      }
+      a{font-weight: 500;
+        color:grey;
+        text-decoration: none;
+      }
+      .main-blk{
+       width: 100%;
+        height: 1000px;
+        background-color: black;
+        margin-left: 0px;
+        margin-right: 0px;
+        padding-left: 26px;
+      }
+      
+      .image1{
+        padding-left: 200px;
+        padding-top: 22px;
+        
+      }
+      .minimum{
+        padding-top: 90px;
+      }
+      h2,#minimumorder,#liveorder{
+       
+        color: #fff;
+        font-weight: 600;
+    
+        size: 10px;
+        letter-spacing: 0.3px;
+        word-spacing: .02px;
+      }
+       h4{
+        font-size: 14.5px;
+    width: 260px;
+    margin-top: 10px;
+    color: #b6aaa6;
+    line-height: 1.3;
+    padding-left: 150px;
+    margin-top: -35px;
+}
+.image2,.image3{
+    padding-left: 380px;
+    padding-top: -15px;
+  
+  }  
+  .livespan{
+    margin-top: -10px;
+    margin-left: 650px;
+    padding-left: 950px;
+  }
+#liveorder{padding-left: 650px;
+    padding-top: -30px;
+    margin-top: -76px;
+    
+  }
+  #lightfast{
+        padding-left: 1150px;
+        margin-top: -60px;
+}
+#p2{
+    padding-left: 657px;
+    margin-top: -58px;
+}
+#p3{
+    padding-left: 1157px;
+    margin-top: -75px;
+}
+
+.main-white{
+    margin-top: -10.7px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+    width: 100%;
+    height: 505px;
+    
+}
+.white-left{
+    width: 50%;
+}
+.white-right{
+    width: 50%;
+
+}
+#restaurents{
+    color: black;
+    margin-top: 250px;
+    size: 20px;
+    font-size: 40px;
+    font-weight: 600;
+    width: 300px;
+    line-height: 1;
+    letter-spacing: -.45px;
+
+}
+#orderrestaurents{
+  font-size: 20px;
+    width: 400px;
+    font-weight: 300;
+    padding-top: 2px;
+    padding-left: 150px;
+    padding-bottom: 60px;
+    color: #9899a0;
+    line-height: 1.2;
+    
+
+}
+.playstore{
+    height: 50px;
+    width: 155px;
+    padding-left: 150px;
+    margin-top: -55px;
+}
+.ios{
+    height: 50px;
+    width: 155px;
+   
+    margin-top: -55px;
+}
+
+.phn1{
+
+width: 400px;
+margin-top: -417px;
+padding-left: 650px;
+
+}
+.phn2{
+    padding-left: 1050px;
+    margin-top: -423px;
+    width: 400px;
+
+    
+}
+.foot{
+    width: 100%;
+    margin-top: 599.95px;
+    height: 900px;
+    background-color: black;
+}
+
+.company{
+    padding-top: 150px;
+    padding-left: 150px;
+    color: #fff;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 600;
+
+}
+li{
+    color: #fff;
+    padding-left: 106px;
+    display: block;
+    
+}
+
+.contact{
+    padding-top: 150px;
+    padding-left: 350px;
+    margin-top: -400px;
+    color: #fff;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 600;
+
+}
+.contact-list{
+    display: block;
+padding-left: 230px;
+
+}
+.footer-image1{
+    padding-left: 650px;
+    margin-top: -90px;
+}
+.footer-image2{
+    padding-left: 950px;
+    margin-top: -83px;
+}
+hr{
+    color: #8b8888;
+ width: 1200px;
+ height: .25px;
+ 
+ margin-top: 120px;
+}
+.web{
+    padding-top: 150px;
+    padding-left: 150px;
+    margin-top: -150px;
+    color: #fff;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 600;
+
+
+}
+.web-list{
+    display: flex;
+}
+small{
+    color:#fff;
+    padding-left: 650px;
+    margin-top: 350px;
+    font-size: 25px;
+    font-family: monospace;
+}
